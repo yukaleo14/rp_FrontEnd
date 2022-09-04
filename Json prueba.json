@@ -1,0 +1,12 @@
+{
+	"nombre": "Martini Leopoldo",
+	"apodo": "leo",
+	"edad": 20,
+	"dni": 43809789,
+	"tareas": {
+			"mañana": "trabajar",
+			"tarde": "ir a clases",
+			"noche": "estudiar"
+	}
+
+}
